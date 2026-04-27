@@ -4,7 +4,8 @@
     "pkg": "eu.kanade.tachiyomi.extension.es.shadowmanga",
     "apk": "https://raw.githubusercontent.com/cesarcsnvz/nueve-extensions/main/shadowmanga.apk",
     "lang": "es",
-    "version": 1,
-    "code": 1
+    "version": "1.0.0",
+    "code": 1,
+    "nsfw": 0
   }
 ]
